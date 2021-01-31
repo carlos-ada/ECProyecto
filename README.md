@@ -24,6 +24,6 @@ Para este aplicación/web he buscado un par de **APIS**. 1 sobre pokémon con su
 	- Bootstrap 4. **(Opcional)**
 	
 - **Herramientas**
-	- [Trello del proyecto](https://trello.com/b/UO7Myv5m/proyecto-cliente-carlos-villar
+	- [Trello del proyecto](https://trello.com/b/UO7Myv5m/proyecto-cliente-carlos-villar)
 
 ## Trabajo de investigación
