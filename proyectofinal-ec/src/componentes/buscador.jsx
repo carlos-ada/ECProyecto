@@ -7,7 +7,7 @@ export default function Buscador(props){
 
     return (
         <Container>
-            <h1>{search}</h1>
+            <h1 className="text-capitalize">{search}</h1>
             <Form className="mt-2">
                 <Form.Row className="align-items-center">
                     <Col sm={10} className="my-1">
