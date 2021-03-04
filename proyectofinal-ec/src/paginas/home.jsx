@@ -21,7 +21,7 @@ export default function HomePage(){
     return (
         <div>
             <Buscador getPokemon={getPokemon} />
-            {loading && pokemon ? (
+            {!loading && pokemon ? (
                 <PokemonData 
                     name={pokemon.name} />
             ): null}
