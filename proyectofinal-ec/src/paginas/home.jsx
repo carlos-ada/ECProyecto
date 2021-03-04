@@ -13,7 +13,7 @@ export default function HomePage(){
         const response = await fetchPokemon(query)
         //console.log(response);
         const results = await response.json();
-        console.log(results);
+        //console.log(results);
         setPokemon(results);
         setLoading(false);
     }
@@ -23,7 +23,11 @@ export default function HomePage(){
             <Buscador getPokemon={getPokemon} />
             {!loading && pokemon ? (
                 <PokemonData 
-                    name={pokemon.name} />
+                    name={pokemon.name}
+                    sprite={pokemon.sprites.front_default} 
+                    sprite2={pokemon.sprites.back_default}
+                    sprite3={pokemon.sprites.front_shiny}
+                    sprite4={pokemon.sprites.back_shiny} />
             ): null}
         </div>
     )
