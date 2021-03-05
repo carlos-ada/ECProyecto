@@ -2,7 +2,7 @@
 
 ## Beta proyecto desplegada
 
-- [Pokemon-React](https://pokede-react-beta.netlify.app)
+- [Pokemon-React](https://pokedex-react-ec.herokuapp.com)
 
 ## Definición del proyecto 
 
