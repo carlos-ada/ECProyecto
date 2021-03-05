@@ -1,5 +1,9 @@
 # ECProyecto
 
+## Beta proyecto desplegada
+
+- [Pokemon-React](https://pokede-react-beta.netlify.app)
+
 ## Definición del proyecto 
 
 En este proyecto quería hacer algo que tenga que ver con pokémon. Como podría ser una **Pokedex** o un buscador de **cartas de pokémon** con todas sus estadísticas. En mi opinión creo que seria mucho mas interesante y entretenido de ver algo sobre las cartas de pokémon, ya que estaría muy chulo de ver.
