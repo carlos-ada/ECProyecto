@@ -1,4 +1,9 @@
 # ECProyecto
+El proyecto se encuentra en la Sprint-3.
+
+## Despliegue
+
+- [Pokemon-React](https://pokedex-react-ec.herokuapp.com)
 
 ## Definición del proyecto 
 
@@ -14,13 +19,10 @@ Para este aplicación/web he buscado un par de **APIS**. 1 sobre pokémon con su
 ![Imagen 2](https://i.imgur.com/cfRy0e7.png)
 
 ## Requisitos
-- **Backend**
-	- Utilizaremos **node.js** o **vue.js**.
-	>Preguntaremos a nuestro profesor, para ver que nos recomienda.
-	
-	- También se utilizara **Postman** para hacer un control de la API.
 - **Frontend**
 	- Para la forma utilizaremos **HTML** para el cual necesitaremos **CSS** si es necesario.
-	- Bootstrap 4. **(Opcional)**
-
-## Trabajo de investigación
+	- Bootstrap 4.
+	
+- **Herramientas**
+	- [Trello del proyecto](https://trello.com/b/UO7Myv5m/proyecto-cliente-carlos-villar)
+	- [Visual Studio Code](https://code.visualstudio.com/download)
