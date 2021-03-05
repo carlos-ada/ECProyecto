@@ -1,6 +1,6 @@
 # ECProyecto
 
-## Beta proyecto desplegada
+## Despliegue
 
 - [Pokemon-React](https://pokedex-react-ec.herokuapp.com)
 
