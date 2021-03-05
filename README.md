@@ -1,5 +1,5 @@
 # ECProyecto
-El proyecto se encuentra en la Sprint-3.
+El proyecto se encuentra en la rama Sprint-3.
 
 ## Despliegue
 
